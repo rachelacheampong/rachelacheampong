@@ -24,7 +24,6 @@ The project explores prompt design, responsible AI guardrails, resource matching
 ## Areas of Interest
 
 - Public health analytics
-- Behavioral health
 - Health technology
 - Responsible AI
 - Data visualization
